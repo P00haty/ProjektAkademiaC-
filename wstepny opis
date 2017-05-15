@@ -1,0 +1,9 @@
+Autor: Marek Włódarczak
+Projekt Chińczyk (Człowieku nie irytuj się)
+Zostanie użyty WPF
+Gra standardowo dla max. czterech graczy, w tym max. trzech komputerowych. 
+Do wyboru będzie też opcja solo, dla graczy nielubiących stresu związanego z przeciwnikami.
+Gracze ludzcy będą mogli wybrać swój kolor i miejsce na planszy.
+Planszy będzie kilka, do wyboru. W z góry ustalonych miejscach będą się znajdować pola ze specjalnymi właściwościami,
+w stylu dodatkowego rzutu kostką lub blokady przeciwników, etc.
+Kostka - wiadomo, generator liczb pseudolosowych.
